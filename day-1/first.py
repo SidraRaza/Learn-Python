@@ -1,0 +1,5 @@
+print("Sidra Raza")
+print("I am 22 years old")
+print("I am a student")
+print("I am learning python")
+print(87626)
