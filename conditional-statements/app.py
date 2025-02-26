@@ -35,4 +35,16 @@ elif "Sidra" in numberOfIndexing:
     print("Sidra is present in our string")
 else:
     print("Not found")
+
+student_marks=input("Enter your marks: ") 
+if(student_marks>= "90"):
+    print("Grade A")
+elif(student_marks>= "80"):
+    print("Grade B")
+elif(student_marks>= "70"):
+    print("Grade C")
+elif(student_marks>= "60"):
+    print("Grade D")
+else:
+    print("Grade F")   
      
