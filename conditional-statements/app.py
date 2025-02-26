@@ -46,5 +46,17 @@ elif(student_marks>= "70"):
 elif(student_marks>= "60"):
     print("Grade D")
 else:
-    print("Grade F")   
+    print("Grade F")  
+
+# nested statements
+
+age = 21
+
+if(age>=18):
+    if(age>=21):
+        print("You can vote")
+    else:
+        print("You can't vote")
+else:
+    print("You can't vote")     
      
