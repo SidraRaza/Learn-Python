@@ -36,3 +36,7 @@ print(str.count("o"))
 
 name5= input("enter your first name : ")
 print(len(name5))
+
+
+occurence = "I am a  $ student of GIAIC $"
+print(occurence.count("$"))
