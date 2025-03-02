@@ -2,7 +2,7 @@
 # import streamlit as st
 
 # # 🔹 Set Google AI API Key
-# API_KEY = "AIzaSyCM8axF5gMnowgZp2nY_mWwo_ZvWq1lbhg"  # Apna Google API key yahan daalo
+# API_KEY = ""  # Apna Google API key yahan daalo
 # genai.configure(api_key=API_KEY)
 
 # # Function to get response from Gemini AI
