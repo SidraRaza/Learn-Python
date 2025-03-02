@@ -11,7 +11,20 @@ print(marks[5])
 mixData = ["iqra","iqu","Ahmed",34,76.8]
 mixData[1]="sidra"
 print(mixData)
+check_len=len(mixData)
+print(check_len)
+print(mixData[1:4])
 
-# str= "iqra"
-# print(str[0])
-# str[0]="Sidra"
+
+# listInInput=list(input("Enter Your Data: "))
+# print("List Data :", listInInput)
+
+num1=[1,1,45,7,45,3,9,0,0]
+num1.append(8)
+# print(num1.pop())
+# num2=num1.count(1)
+print(num1)
+
+
+ 
+
